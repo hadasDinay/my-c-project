@@ -3,3 +3,4 @@ build/
 *.am
 *.ent
 *.ext
+!output-example/*.*
